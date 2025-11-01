@@ -15,6 +15,7 @@ dependencies:
   process_run: ^1.2.4
   http: ^0.13.6
   vosk_flutter: ^0.3.48
+  record: ^5.0.4
 
 dev_dependencies:
   flutter_test:
@@ -35,4 +36,3 @@ flutter:
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
-
